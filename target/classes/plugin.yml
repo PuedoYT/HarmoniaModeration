@@ -1,0 +1,6 @@
+name: Harmonia
+version: '1.0-SNAPSHOT'
+main: net.harmoniamc.harmonia.Main
+authors: [Harmonia]
+description: Plugin including everything such as ranks, moderation commands, commands ect..
+website: harmoniamc.net
